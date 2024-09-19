@@ -8,7 +8,7 @@ if (soma < 10) {
     alert("Número INCORRETO! É menor que 10");
 }
 else if ((soma >= 10) && (soma <=50)) {
-    alert("Número CORRETO!");
+    alert("Número CORRETO! Está entre 10 e 50");
 }
 else {
     alert("Número INCORRETO! É maior que 50");
